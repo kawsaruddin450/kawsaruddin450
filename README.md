@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ## Kawsar Ahmed
+- 👋 Hi, I’m Kawsar Ahmed
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on ...
